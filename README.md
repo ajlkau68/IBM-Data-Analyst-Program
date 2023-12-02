@@ -13,5 +13,4 @@ It also includes projects involving web scraping and REST APIs.
 Skills involved in these projects include:
     - Python
     - SQL
-    - Excel
     
