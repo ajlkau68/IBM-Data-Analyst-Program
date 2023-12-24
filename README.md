@@ -3,7 +3,7 @@
 This repository contains data analysis projects done through the IBM Data Analyst program.
 
 It encompasses projects done in Python using packages such as:
-    - Pandas
+    . Pandas
     - Numpy
     - Matplotlib
     - Seaborn
